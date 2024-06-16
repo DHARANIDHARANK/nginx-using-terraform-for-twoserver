@@ -2,7 +2,7 @@
 
 This Terraform script deploys two AWS EC2 instances running Nginx in different regions (us-east-2 and us-west-2), each within its own VPC and associated resources.
 
-##Prerequisites
+## Prerequisites
 Before running this script, ensure you have:
 
         AWS credentials configured with appropriate permissions.
